@@ -1,0 +1,29 @@
+{
+  "name": "signatura",
+  "version": "1.0.0",
+  "description": "HOOQ's HTTP request signature",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "signatura",
+    "HOOQ",
+    "partner",
+    "signature"
+  ],
+  "author": "Dhi Aurrahman <dio@hooq.tv>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HOOQTV/signatura.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HOOQTV/signatura/issues"
+  },
+  "homepage": "https://github.com/HOOQTV/signatura#readme"
+}
