@@ -1,5 +1,7 @@
 ## Signatura
 
+**Migrated to https://github.coupang.net/coupang/couplay-signatura**
+
 This is a way to sign you request against HOOQ's endpoint.
 
 HOOQ will send you the secret key that will be used for you to sign your request.
